@@ -55,7 +55,10 @@ p {
 
 /*Imagens*/
 
+#arduino.jpg{
+  width: 100%;
 
+}
 img{
 width: 100%;
 }
