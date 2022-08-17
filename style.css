@@ -56,7 +56,7 @@ p {
 /*Imagens*/
 
 #arduino.jpg{
-
+  width: 100%;
   border:4px groove rgb(36, 165, 216);
 
 }
