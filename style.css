@@ -8,7 +8,6 @@ body {
 
 /*div geral*/
 .geral {
-
   border: 10px outset #68C7BC;
 }
 
@@ -33,7 +32,6 @@ h1 {
   font-size: 40px;
   color: #000000;
   text-align: center;
-
 }
 
 /*Parágrafos*/
@@ -53,7 +51,6 @@ p {
 
   .img {
     width: 50%;
-
   }
 }
 
@@ -61,7 +58,6 @@ p {
 
 #arduino {
   border: 10px;
-
 }
 
 img {
@@ -72,6 +68,8 @@ img {
 
 ul {
   display: inline-block;
+  vertical-align: top;
+  margin-right: 10%;
 }
 
 li {
