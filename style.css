@@ -44,22 +44,20 @@ p {
 }
 
 /*Classes*/
-.lista {
+.listas {
   font-size: 30px;
   color: aqua;
   align-items: center;
-
-  .img {
-    width: 50%;
-  }
+}
+.img {
+  width: 50%;
 }
 
-/*Imagens*/
-
+/*ID  identificadores*/
 #arduino {
   border: 10px;
 }
-
+/*Imagens*/
 img {
   width: 100%;
 }
