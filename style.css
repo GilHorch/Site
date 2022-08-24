@@ -1,6 +1,3 @@
-
-
-
 /*Atibutos para de estilos*/
 
 /*Corpo*/
@@ -8,72 +5,75 @@
 body {
   background-color: #E1FAF7;
 }
-/*div geral*/
-.geral{
 
-	 border: 10px outset #68C7BC;
+/*div geral*/
+.geral {
+
+  border: 10px outset #68C7BC;
 }
 
-
 /*Links*/
-
 
 /*Quando o mouse passa por cima dos links*/
 a:hover {
   color: pink;
   text-decoration: none;
 }
+
 /*Link ativo/selecionado*/
 a:active {
   color: yellow;
   text-decoration: none;
 }
 
-
 /*Títulos*/
 
-
 h1 {
-font-family:times,arial,helvetica;
+  font-family: times, arial, helvetica;
   font-size: 40px;
   color: #000000;
   text-align: center;
 
 }
 
-
 /*Parágrafos*/
 
-
 p {
-  font-family:times,arial,helvetica;
+  font-family: times, arial, helvetica;
   font-size: 30px;
-  text-align:justify;
+  text-align: justify;
   color: #003832;
 }
-/*Classes*/
-.lista{
-font-size: 30px;
-color: aqua;
-align-items: center;
 
+/*Classes*/
+.lista {
+  font-size: 30px;
+  color: aqua;
+  align-items: center;
+
+  .img {
+    width: 50%;
+
+  }
 }
+
 /*Imagens*/
 
-#arduino{
+#arduino {
   border: 10px;
 
 }
-img{
-width: 100%;
-}
 
+img {
+  width: 100%;
+}
 
 /*Listas*/
 
+ul {
+  display: inline-block;
+}
 
-li{
-
-	display: inline-block;
-    margin: 0 0 0 15px; 
+li {
+  margin: 0 0 0 15px;
 }
